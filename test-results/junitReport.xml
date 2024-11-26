@@ -1,0 +1,8 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="61.96921">
+<testsuite name="tests/usePageObjects.spec.ts" timestamp="2024-11-26T14:24:39.509Z" hostname="chromium" tests="2" failures="0" skipped="0" time="9.393" errors="0">
+<testcase name="navigate to form page @smoke @regression" classname="tests/usePageObjects.spec.ts" time="5.498">
+</testcase>
+<testcase name="parametrized methods @smoke" classname="tests/usePageObjects.spec.ts" time="3.895">
+</testcase>
+</testsuite>
+</testsuites>
